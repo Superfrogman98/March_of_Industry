@@ -93,3 +93,6 @@ val ironPlate = <ore:plateIron>;
 ironRod.remove(<Magneticraft:item.stick_iron>);
 ironRod.remove(<libVulpes:libVulpesproductrod:1>);
 ironPlate.remove(<roadstuff:itemIronPart:1>);
+
+val concrete = <ore:concrete>;
+concrete.remove(<minecraft:hardened_clay>);

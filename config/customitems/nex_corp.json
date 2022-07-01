@@ -454,6 +454,17 @@
             "lightLevel": 1.0,
             "isGas": false,
             "flowLength": 5
+        },
+        {
+            "name":"Diesel",
+            "textureName": "diesel",
+            "temperature": 300,
+            "creativeTab": "Nex Corp Solutions",
+            "density": 1000,
+            "viscosity": 350,            
+            "lightLevel": 1.0,
+            "isGas": false,
+            "flowLength": 5
         }
     ],
     "changeItems": [

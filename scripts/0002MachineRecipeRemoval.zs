@@ -135,13 +135,13 @@ mods.mekanism.Infuser.removeRecipe(<Mekanism:EnrichedAlloy>);
 mods.immersiveengineering.MetalPress.removeRecipeByMold(<ImmersiveEngineering:mold:0>);
 
 //Pulverizer (Takes Input)
-mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreIron>);
+//mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreIron>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreGraphite>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreKaolinite>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreTitanium>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreCoal>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreLapis>);
-mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreGold>);
+//mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreGold>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreDilithium>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreSalt>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreThorium>);
@@ -168,9 +168,12 @@ mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreApatite>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreOsmium>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreQuartz>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreEmerald>);
-mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreRedstone>);
+//mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreRedstone>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreDiamond>);
 mods.thermalexpansion.Pulverizer.removeRecipe(<ore:oreIridium>);
+mods.thermalexpansion.Pulverizer.removeRecipe(<ore:slabBricks>);
+mods.thermalexpansion.Pulverizer.removeRecipe(<ore:brickBlock>);
+mods.thermalexpansion.Pulverizer.removeRecipe(<minecraft:brick_stairs>);
 
 //Rock Crusher
 mods.railcraft.RockCrusher.removeRecipe(<minecraft:stonebrick>);
@@ -199,4 +202,5 @@ mods.thermalexpansion.Sawmill.removeRecipe(<minecraft:bed>);
 mods.thermalexpansion.Sawmill.removeRecipe(<minecraft:painting>);
 mods.mekanism.Sawmill.removeRecipe(<minecraft:bed>, <minecraft:planks>, <minecraft:wool>);
 
-
+//Chemical Injection chamber
+mods.mekanism.chemical.Injection.removeRecipe(<minecraft:clay_ball>);

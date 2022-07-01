@@ -126,7 +126,7 @@
             "action" : 
             {
                 "type" : "openLink",
-                "link" : "https://github.com/Superfrogman98/Goliath-Industries/issues"
+                "link" : "https://github.com/Superfrogman98/March_of_Industry/issues"
             },
             "hoverText":"Issue Tracker",
             "alignment" : "top_left"
