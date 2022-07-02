@@ -508,6 +508,10 @@
       },
       {
         "type": "before",
+        "target": "MekanismTools"
+      },
+      {
+        "type": "before",
         "target": "MineMenu"
       },
       {
@@ -740,15 +744,15 @@
       },
       {
         "type": "before",
+        "target": "ForgeMicroblock"
+      },
+      {
+        "type": "before",
         "target": "McMultipart"
       },
       {
         "type": "before",
         "target": "aobd"
-      },
-      {
-        "type": "before",
-        "target": "ForgeMicroblock"
       }
     ]
   }
